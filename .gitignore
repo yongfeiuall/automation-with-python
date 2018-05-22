@@ -10,4 +10,5 @@ report
 assets
 __pycache__
 .tox/*
-pytest_debug.py
+venv/*
+test.egg-info/*
