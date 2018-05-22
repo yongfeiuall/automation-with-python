@@ -1,0 +1,13 @@
+.idea
+.settings
+.vs
+.project
+reports.html
+*.pyc
+*.pyproj
+*.sln
+report
+assets
+__pycache__
+.tox/*
+pytest_debug.py

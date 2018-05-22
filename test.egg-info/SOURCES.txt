@@ -1,0 +1,7 @@
+setup.py
+automation/__init__.py
+automation/get_page_content.py
+test.egg-info/PKG-INFO
+test.egg-info/SOURCES.txt
+test.egg-info/dependency_links.txt
+test.egg-info/top_level.txt

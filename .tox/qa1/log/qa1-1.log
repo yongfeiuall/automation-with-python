@@ -1,0 +1,16 @@
+actionid: qa1
+msg: getenv
+cmdargs: ['D:\\Other\\automation\\.tox\\qa1\\Scripts\\pip.EXE', 'install', '-rrequirements.txt']
+
+Collecting requests==2.18.4 (from -r requirements.txt (line 2))
+  Using cached https://files.pythonhosted.org/packages/49/df/50aa1999ab9bde74656c2919d9c0c085fd2b3775fd3eca826012bef76d8c/requests-2.18.4-py2.py3-none-any.whl
+Collecting chardet<3.1.0,>=3.0.2 (from requests==2.18.4->-r requirements.txt (line 2))
+  Using cached https://files.pythonhosted.org/packages/bc/a9/01ffebfb562e4274b6487b4bb1ddec7ca55ec7510b22e4c51f14098443b8/chardet-3.0.4-py2.py3-none-any.whl
+Collecting idna<2.7,>=2.5 (from requests==2.18.4->-r requirements.txt (line 2))
+  Using cached https://files.pythonhosted.org/packages/27/cc/6dd9a3869f15c2edfab863b992838277279ce92663d334df9ecf5106f5c6/idna-2.6-py2.py3-none-any.whl
+Collecting certifi>=2017.4.17 (from requests==2.18.4->-r requirements.txt (line 2))
+  Using cached https://files.pythonhosted.org/packages/7c/e6/92ad559b7192d846975fc916b65f667c7b8c3a32bea7372340bfe9a15fa5/certifi-2018.4.16-py2.py3-none-any.whl
+Collecting urllib3<1.23,>=1.21.1 (from requests==2.18.4->-r requirements.txt (line 2))
+  Using cached https://files.pythonhosted.org/packages/63/cb/6965947c13a94236f6d4b8223e21beb4d576dc72e8130bd7880f600839b8/urllib3-1.22-py2.py3-none-any.whl
+Installing collected packages: chardet, idna, certifi, urllib3, requests
+Successfully installed certifi-2018.4.16 chardet-3.0.4 idna-2.6 requests-2.18.4 urllib3-1.22
