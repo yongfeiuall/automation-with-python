@@ -1,8 +1,0 @@
-actionid: qa1
-msg: getenv
-cmdargs: ['c:\\python36\\python.exe', '-m', 'virtualenv', '--python', 'c:\\python36\\python.exe', 'qa1']
-
-Already using interpreter c:\python36\python.exe
-Using base prefix 'c:\\python36'
-New python executable in D:\Other\automation\.tox\qa1\Scripts\python.exe
-Installing setuptools, pip, wheel...done.
